@@ -1,5 +1,5 @@
 # Projects for private folder
-This repository contains frontend projects. Each project has its own folder and contains all the necessary files, including HTML, CSS, JavaScript etc.
+This repository contains frontend projects. Each project contains all the necessary files, including HTML, CSS, JavaScript etc.
 
 # Installation
 To use these projects, simply clone or download the repository to your local machine
